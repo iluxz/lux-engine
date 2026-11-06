@@ -7,7 +7,13 @@
     <ClCompile Include="D:\multipurpose\projects\lux-engine\src\Application.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="D:\multipurpose\projects\lux-engine\src\Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="D:\multipurpose\projects\lux-engine\src\Core.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\multipurpose\projects\lux-engine\src\Mesh.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="D:\multipurpose\projects\lux-engine\src\Shader.cpp">
@@ -24,7 +30,13 @@
     <ClInclude Include="D:\multipurpose\projects\lux-engine\include\lux\Application.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="D:\multipurpose\projects\lux-engine\include\lux\Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
     <ClInclude Include="D:\multipurpose\projects\lux-engine\include\lux\Core.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\multipurpose\projects\lux-engine\include\lux\Mesh.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="D:\multipurpose\projects\lux-engine\include\lux\Shader.h">

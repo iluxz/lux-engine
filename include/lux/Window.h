@@ -10,7 +10,7 @@ struct GLFWwindow;
 namespace lux {
 
 struct WindowConfig {
-    std::string title = "Lux Engine";
+    std::string title = "lux Engine";
     i32 width = 1280;
     i32 height = 720;
     bool vsync = true;
