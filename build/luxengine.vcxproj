@@ -288,15 +288,20 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="D:\multipurpose\projects\lux-engine\src\Application.cpp" />
     <ClCompile Include="D:\multipurpose\projects\lux-engine\src\Camera.cpp" />
     <ClCompile Include="D:\multipurpose\projects\lux-engine\src\Core.cpp" />
+    <ClCompile Include="D:\multipurpose\projects\lux-engine\src\Input.cpp" />
     <ClCompile Include="D:\multipurpose\projects\lux-engine\src\Mesh.cpp" />
     <ClCompile Include="D:\multipurpose\projects\lux-engine\src\Shader.cpp" />
+    <ClCompile Include="D:\multipurpose\projects\lux-engine\src\Texture.cpp" />
     <ClCompile Include="D:\multipurpose\projects\lux-engine\src\Window.cpp" />
     <ClCompile Include="D:\multipurpose\projects\lux-engine\src\main.cpp" />
     <ClInclude Include="D:\multipurpose\projects\lux-engine\include\lux\Application.h" />
     <ClInclude Include="D:\multipurpose\projects\lux-engine\include\lux\Camera.h" />
     <ClInclude Include="D:\multipurpose\projects\lux-engine\include\lux\Core.h" />
+    <ClInclude Include="D:\multipurpose\projects\lux-engine\include\lux\ECS.h" />
+    <ClInclude Include="D:\multipurpose\projects\lux-engine\include\lux\Input.h" />
     <ClInclude Include="D:\multipurpose\projects\lux-engine\include\lux\Mesh.h" />
     <ClInclude Include="D:\multipurpose\projects\lux-engine\include\lux\Shader.h" />
+    <ClInclude Include="D:\multipurpose\projects\lux-engine\include\lux\Texture.h" />
     <ClInclude Include="D:\multipurpose\projects\lux-engine\include\lux\Window.h" />
   </ItemGroup>
   <ItemGroup />

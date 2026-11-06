@@ -13,10 +13,16 @@
     <ClCompile Include="D:\multipurpose\projects\lux-engine\src\Core.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="D:\multipurpose\projects\lux-engine\src\Input.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="D:\multipurpose\projects\lux-engine\src\Mesh.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="D:\multipurpose\projects\lux-engine\src\Shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\multipurpose\projects\lux-engine\src\Texture.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="D:\multipurpose\projects\lux-engine\src\Window.cpp">
@@ -36,10 +42,19 @@
     <ClInclude Include="D:\multipurpose\projects\lux-engine\include\lux\Core.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="D:\multipurpose\projects\lux-engine\include\lux\ECS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\multipurpose\projects\lux-engine\include\lux\Input.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
     <ClInclude Include="D:\multipurpose\projects\lux-engine\include\lux\Mesh.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="D:\multipurpose\projects\lux-engine\include\lux\Shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\multipurpose\projects\lux-engine\include\lux\Texture.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="D:\multipurpose\projects\lux-engine\include\lux\Window.h">
