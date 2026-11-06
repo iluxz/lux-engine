@@ -1,0 +1,15 @@
+D:/multipurpose/projects/lux-engine/build/CMakeFiles/luxengine.dir
+D:/multipurpose/projects/lux-engine/build/CMakeFiles/luxengine_app.dir
+D:/multipurpose/projects/lux-engine/build/CMakeFiles/INSTALL.dir
+D:/multipurpose/projects/lux-engine/build/CMakeFiles/ALL_BUILD.dir
+D:/multipurpose/projects/lux-engine/build/CMakeFiles/ZERO_CHECK.dir
+D:/multipurpose/projects/lux-engine/build/_deps/glfw-build/CMakeFiles/uninstall.dir
+D:/multipurpose/projects/lux-engine/build/_deps/glfw-build/CMakeFiles/INSTALL.dir
+D:/multipurpose/projects/lux-engine/build/_deps/glfw-build/CMakeFiles/ALL_BUILD.dir
+D:/multipurpose/projects/lux-engine/build/_deps/glfw-build/src/CMakeFiles/glfw.dir
+D:/multipurpose/projects/lux-engine/build/_deps/glfw-build/src/CMakeFiles/update_mappings.dir
+D:/multipurpose/projects/lux-engine/build/_deps/glfw-build/src/CMakeFiles/INSTALL.dir
+D:/multipurpose/projects/lux-engine/build/_deps/glm-build/CMakeFiles/INSTALL.dir
+D:/multipurpose/projects/lux-engine/build/_deps/glm-build/CMakeFiles/ALL_BUILD.dir
+D:/multipurpose/projects/lux-engine/build/_deps/glm-build/glm/CMakeFiles/glm.dir
+D:/multipurpose/projects/lux-engine/build/_deps/glm-build/glm/CMakeFiles/INSTALL.dir

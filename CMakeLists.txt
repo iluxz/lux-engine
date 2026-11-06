@@ -34,14 +34,9 @@ FetchContent_Declare(
 )
 FetchContent_MakeAvailable(glm)
 
-# GLAD - we'll use a pre-generated version
-# For now, we'll use glad2 from github
-FetchContent_Declare(
-    glad
-    GIT_REPOSITORY https://github.com/Dav1dde/glad.git
-    GIT_TAG v2.0.8
-)
-FetchContent_MakeAvailable(glad)
+# GLAD - pre-generated
+set(GLAD_DIR ${CMAKE_SOURCE_DIR}/external/glad)
+set(GLAD_SOURCES ${GLAD_DIR}/src/gl.c)
 
 # stb_image (header-only)
 FetchContent_Declare(
@@ -53,12 +48,14 @@ FetchContent_MakeAvailable(stb)
 
 # Include directories
 include_directories(${CMAKE_SOURCE_DIR}/include)
+include_directories(${GLAD_DIR}/include)
 include_directories(${stb_SOURCE_DIR})
 
 # Engine library
 file(GLOB_RECURSE ENGINE_SOURCES
     "src/*.cpp"
     "src/*.c"
+    "external/glad/src/*.c"
 )
 file(GLOB_RECURSE ENGINE_HEADERS
     "include/lux/*.h"
@@ -67,7 +64,7 @@ file(GLOB_RECURSE ENGINE_HEADERS
 
 add_library(luxengine STATIC ${ENGINE_SOURCES} ${ENGINE_HEADERS})
 target_include_directories(luxengine PUBLIC ${CMAKE_SOURCE_DIR}/include)
-target_link_libraries(luxengine PUBLIC glfw glm::glm glad)
+target_link_libraries(luxengine PUBLIC glfw glm::glm)
 
 # Executable
 add_executable(luxengine_app src/main.cpp)

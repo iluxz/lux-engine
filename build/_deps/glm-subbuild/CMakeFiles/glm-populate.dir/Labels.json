@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/multipurpose/projects/lux-engine/build/_deps/glm-subbuild/CMakeFiles/glm-populate"
+		},
+		{
+			"file" : "D:/multipurpose/projects/lux-engine/build/_deps/glm-subbuild/CMakeFiles/00b58a7e550be8487fc5581088cec90f/glm-populate.rule"
+		},
+		{
+			"file" : "D:/multipurpose/projects/lux-engine/build/_deps/glm-subbuild/CMakeFiles/cc3db5f7b153905dfc344c42407d0202/glm-populate-complete.rule"
+		},
+		{
+			"file" : "D:/multipurpose/projects/lux-engine/build/_deps/glm-subbuild/CMakeFiles/053ed2aacccfb5ddda32804277082685/glm-populate-build.rule"
+		},
+		{
+			"file" : "D:/multipurpose/projects/lux-engine/build/_deps/glm-subbuild/CMakeFiles/053ed2aacccfb5ddda32804277082685/glm-populate-configure.rule"
+		},
+		{
+			"file" : "D:/multipurpose/projects/lux-engine/build/_deps/glm-subbuild/CMakeFiles/053ed2aacccfb5ddda32804277082685/glm-populate-download.rule"
+		},
+		{
+			"file" : "D:/multipurpose/projects/lux-engine/build/_deps/glm-subbuild/CMakeFiles/053ed2aacccfb5ddda32804277082685/glm-populate-install.rule"
+		},
+		{
+			"file" : "D:/multipurpose/projects/lux-engine/build/_deps/glm-subbuild/CMakeFiles/053ed2aacccfb5ddda32804277082685/glm-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/multipurpose/projects/lux-engine/build/_deps/glm-subbuild/CMakeFiles/053ed2aacccfb5ddda32804277082685/glm-populate-patch.rule"
+		},
+		{
+			"file" : "D:/multipurpose/projects/lux-engine/build/_deps/glm-subbuild/CMakeFiles/053ed2aacccfb5ddda32804277082685/glm-populate-test.rule"
+		},
+		{
+			"file" : "D:/multipurpose/projects/lux-engine/build/_deps/glm-subbuild/CMakeFiles/053ed2aacccfb5ddda32804277082685/glm-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glm-populate"
+		],
+		"name" : "glm-populate"
+	}
+}

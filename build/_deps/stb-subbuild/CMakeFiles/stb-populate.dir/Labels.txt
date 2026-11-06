@@ -1,0 +1,14 @@
+# Target labels
+ stb-populate
+# Source files and their labels
+D:/multipurpose/projects/lux-engine/build/_deps/stb-subbuild/CMakeFiles/stb-populate
+D:/multipurpose/projects/lux-engine/build/_deps/stb-subbuild/CMakeFiles/d068db09f3949a57587adfa9ce33af8f/stb-populate.rule
+D:/multipurpose/projects/lux-engine/build/_deps/stb-subbuild/CMakeFiles/1da21f3bfd44075b4ad06741f07a7014/stb-populate-complete.rule
+D:/multipurpose/projects/lux-engine/build/_deps/stb-subbuild/CMakeFiles/049029927609dd30bc7abd256b540e69/stb-populate-build.rule
+D:/multipurpose/projects/lux-engine/build/_deps/stb-subbuild/CMakeFiles/049029927609dd30bc7abd256b540e69/stb-populate-configure.rule
+D:/multipurpose/projects/lux-engine/build/_deps/stb-subbuild/CMakeFiles/049029927609dd30bc7abd256b540e69/stb-populate-download.rule
+D:/multipurpose/projects/lux-engine/build/_deps/stb-subbuild/CMakeFiles/049029927609dd30bc7abd256b540e69/stb-populate-install.rule
+D:/multipurpose/projects/lux-engine/build/_deps/stb-subbuild/CMakeFiles/049029927609dd30bc7abd256b540e69/stb-populate-mkdir.rule
+D:/multipurpose/projects/lux-engine/build/_deps/stb-subbuild/CMakeFiles/049029927609dd30bc7abd256b540e69/stb-populate-patch.rule
+D:/multipurpose/projects/lux-engine/build/_deps/stb-subbuild/CMakeFiles/049029927609dd30bc7abd256b540e69/stb-populate-test.rule
+D:/multipurpose/projects/lux-engine/build/_deps/stb-subbuild/CMakeFiles/049029927609dd30bc7abd256b540e69/stb-populate-update.rule

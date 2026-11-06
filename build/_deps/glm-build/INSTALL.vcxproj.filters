@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\multipurpose\projects\lux-engine\build\CMakeFiles\108907b0f125bb4f69534b2e2c6468fc\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{25902253-B4A8-37FA-AFEB-BD61F550BE5C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

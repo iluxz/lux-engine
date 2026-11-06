@@ -1,0 +1,14 @@
+# Target labels
+ glfw-populate
+# Source files and their labels
+D:/multipurpose/projects/lux-engine/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate
+D:/multipurpose/projects/lux-engine/build/_deps/glfw-subbuild/CMakeFiles/4de5ac4cee43a547976324d4aec082c1/glfw-populate.rule
+D:/multipurpose/projects/lux-engine/build/_deps/glfw-subbuild/CMakeFiles/706cef2dfaaa6ccd0e93a36ed71e513b/glfw-populate-complete.rule
+D:/multipurpose/projects/lux-engine/build/_deps/glfw-subbuild/CMakeFiles/8d0ecf3ba9d41083f60aba5aeab69817/glfw-populate-build.rule
+D:/multipurpose/projects/lux-engine/build/_deps/glfw-subbuild/CMakeFiles/8d0ecf3ba9d41083f60aba5aeab69817/glfw-populate-configure.rule
+D:/multipurpose/projects/lux-engine/build/_deps/glfw-subbuild/CMakeFiles/8d0ecf3ba9d41083f60aba5aeab69817/glfw-populate-download.rule
+D:/multipurpose/projects/lux-engine/build/_deps/glfw-subbuild/CMakeFiles/8d0ecf3ba9d41083f60aba5aeab69817/glfw-populate-install.rule
+D:/multipurpose/projects/lux-engine/build/_deps/glfw-subbuild/CMakeFiles/8d0ecf3ba9d41083f60aba5aeab69817/glfw-populate-mkdir.rule
+D:/multipurpose/projects/lux-engine/build/_deps/glfw-subbuild/CMakeFiles/8d0ecf3ba9d41083f60aba5aeab69817/glfw-populate-patch.rule
+D:/multipurpose/projects/lux-engine/build/_deps/glfw-subbuild/CMakeFiles/8d0ecf3ba9d41083f60aba5aeab69817/glfw-populate-test.rule
+D:/multipurpose/projects/lux-engine/build/_deps/glfw-subbuild/CMakeFiles/8d0ecf3ba9d41083f60aba5aeab69817/glfw-populate-update.rule

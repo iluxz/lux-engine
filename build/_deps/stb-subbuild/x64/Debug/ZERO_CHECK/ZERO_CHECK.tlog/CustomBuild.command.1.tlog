@@ -1,0 +1,10 @@
+^D:\MULTIPURPOSE\PROJECTS\LUX-ENGINE\BUILD\_DEPS\STB-SUBBUILD\CMAKEFILES\D068DB09F3949A57587ADFA9CE33AF8F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/multipurpose/projects/lux-engine/build/_deps/stb-subbuild -BD:/multipurpose/projects/lux-engine/build/_deps/stb-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/multipurpose/projects/lux-engine/build/_deps/stb-subbuild/stb-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
